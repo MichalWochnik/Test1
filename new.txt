@@ -1,6 +1,7 @@
 This is a new file.
 asdfasd
-fasdf
-asdfa
 sdfasd
 fasfasf
+new
+3
+lines
